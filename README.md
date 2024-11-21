@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
@@ -52,3 +53,7 @@ Join our community of developers creating universal apps.
 =======
 # StopWatch
 >>>>>>> 592d346d9a5a65cd531678b87a2493ccbe87c563
+=======
+# StopWatch
+See Components << Stopwatch.tsx and App << (tabs) << index.tsx for the stopwatch functionality
+>>>>>>> b7e9c26a53bc12454df895cf339d90dca836457c
